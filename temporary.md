@@ -1,1 +1,0 @@
-This is a temporary file to demonstrate how rename works.
