@@ -17,4 +17,6 @@ This is a sample hands-on, mirroring the course I am in now. Testing out the sec
 
 !!!!!!!!!
 
+This exercise is to test Branch topic in GitHub.
+
 
