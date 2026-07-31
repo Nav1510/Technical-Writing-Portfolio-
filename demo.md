@@ -13,6 +13,8 @@ This is a sample hands-on, mirroring the course I am in now.
 
 **Case 3**
 	**Action:** Both remote and local files have changed.
-	**Consequence:** Remote file is merged into the local file.
+	**Consequence:** Remote file is merged into the local file. Testing conflict in Git.
 
 !!!!!!!!!
+
+
