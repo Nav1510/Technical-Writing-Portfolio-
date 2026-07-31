@@ -1,2 +1,2 @@
 # Technical-Writing-Portfolio-
-This repo contains the SAP technical blogs I've written, sample documentation, and videos.    
+This repo contains my collective hands-on exercises after learning Git.    
