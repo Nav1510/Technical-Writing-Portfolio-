@@ -1,5 +1,5 @@
 Here is how I add repository to my Git.
-This is a sample hands-on, mirroring the course I am in now.
+This is a sample hands-on, mirroring the course I am in now. Testing out the second case
 
 ******Collaboration and Version Control******
 
