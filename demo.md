@@ -1,4 +1,4 @@
-Here is how I add repository to my Git.
+Here is how I add repository to my Git. 
 This is a sample hands-on, mirroring the course I am in now. Testing out the second case
 
 ******Collaboration and Version Control******
@@ -17,6 +17,9 @@ This is a sample hands-on, mirroring the course I am in now. Testing out the sec
 
 !!!!!!!!!
 
-Case scenario: Right now, I am working in the middle of stash concept.
+*****Case scenario****
+Right now, I am working in the middle of stash concept.
 
+This line experiments how statsh, as a concept, works in GitHub.
 
+This line experiments how to perform pull request when merging branches.
