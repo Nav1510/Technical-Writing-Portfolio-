@@ -20,3 +20,4 @@ This is a sample hands-on, mirroring the course I am in now. Testing out the sec
 This exercise is to test Branch topic in GitHub.
 
 
+This line experiments how statsh, as a concept, works in GitHub.
