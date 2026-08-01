@@ -17,4 +17,6 @@ This is a sample hands-on, mirroring the course I am in now. Testing out the sec
 
 !!!!!!!!!
 
+Case scenario: Right now, I am working in the middle of stash concept.
+
 
