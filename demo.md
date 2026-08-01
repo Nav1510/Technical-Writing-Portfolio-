@@ -22,4 +22,4 @@ Right now, I am working in the middle of stash concept.
 
 This line experiments how statsh, as a concept, works in GitHub.
 
-This line experiments how to perform pull request when merging branches.
+This line experiments how to perform pull request when merging branches; this is to test conflicts.
