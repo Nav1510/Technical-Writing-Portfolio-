@@ -31,14 +31,8 @@
 	•	Docs-as-Code
 	•	OpenAPI Specification
 
-**Articles Featured**
+[Article Featured] (https://blog.sap-press.com/generative-ai-with-sap-from-symbolic-to-statistical)
 
-	https://blog.sap-press.com/generative-ai-with-sap-from-symbolic-to-statistical
+[Visit GitHub] (https://github.com/Nav1510/Tech-Writing-Experimentation-Space)
 
-**Git**
-
-	https://github.com/Nav1510/Tech-Writing-Experimentation-Space
-
-**LinkedIn**
-	
-	https://www.linkedin.com/in/m-naveen1510/
+[My LinkedIn] (https://www.linkedin.com/in/m-naveen1510/)
