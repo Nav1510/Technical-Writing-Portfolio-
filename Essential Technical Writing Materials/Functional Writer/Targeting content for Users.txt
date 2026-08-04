@@ -1,0 +1,34 @@
+Targeting content for Users:
+
+Sales & marketing
+Business Analysts
+	Apply the below logic here, and the following questions are critical:
+		Who is the customer?
+		What are his regular business patterns?
+
+Usability experts who design the overall system experience of an application.
+	First, defines personas	(imaginary role) -- translates into building a target group
+		Who is the person
+		What is his vested interest in this
+		What are the person's primary and secondary daily responsibilities.
+
+Software Development
+	Administrators - sets up the things; in other words, administrators are not concerned about what language the developer used.
+	Developers - person to create the functionality; developers are not concerned about the password; however, developers want to know details about the password and other stuff.
+	End-users - they don't like reading the documentation. Practice minimalism in writing.
+	Integrators - 
+	Consultants, and so on - 	
+	
+Continuous delivery - Scrum -- the next phase of Agile; DevOps - developer is responsible for everything end-to-end. What technical writers develop is a side product that the software developers develop (MVP).
+
+Maintenance costs is too high in technical writing.
+
+Delivery channels of technical content : Help Portals, Printed Instructions on Paper, Video Delivery Channels (for example, youtube, vimeo), Artificial Intelligent Chatbots (Siri, Alexa)
+
+As a technical writer, you need to design and define the offering for the user.
+
+	Identify the following:
+		Target user: Who, what, what do they intend to achieve?
+		Information offering: Format of consumption (print/paper); is the user inclined towards reading or watching videos or the combination; assess their work environment in which they would use your user assistance information block.
+		Possible delivery channels: How do we reach the user? What device do they use? 
+

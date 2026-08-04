@@ -1,0 +1,45 @@
+Standards & Guidelines:
+
+River-raft concept : write down everything as an endless flow of text.
+The STOP (Sequential Thematic Organization of Proposals) concept : Write down things in a way it can be consumed as smaller units rather than the entire flow.
+
+Why do we need structure in writing?
+
+Technical writing is not only about language. Most aspects of technical writing are well addressed by structured writing.
+
+Organize volumes of material; writing is small vs. large companies is a different ball game; have a mindful structured writing approach will increase your chances of working in large writing teams.
+
+Information Types
+
+Concept
+Procedure
+Process
+Principle
+Fact
+Structure
+Classification
+
+
+***Easy to read and scan***
+
+Instructor Example:
+
+Concept
+
+	Summary
+	Detailed Overview
+	Example
+
+Task
+
+	Summary
+	Prerequisites
+	Steps
+	Result (Optional)
+	Example
+
+
+Reference
+	
+	Summary
+	Mostly prefers the table format
