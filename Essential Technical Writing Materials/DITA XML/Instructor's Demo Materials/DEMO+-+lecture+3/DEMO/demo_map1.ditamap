@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map collection-type="choice">
+    <title>DEMO_MAP1</title>
+    <mapref href="map2.ditamap" format="ditamap"/>
+    <navref mapref="map2.ditamap"/>
+    <topichead navtitle="Section 1">
+        <topicref href="topic_1_1.dita">
+            <topicref href="topic_2_1.dita">
+                <topicref href="topic_3_0.dita"/>
+            </topicref>
+        </topicref>
+        <topicref href="task_demo.dita"/>
+    </topichead>
+</map>
